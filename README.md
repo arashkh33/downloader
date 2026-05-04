@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [Qwen2.5-7B-Instruct-Q4_K_M](https://github.com/arashkh33/downloader/tree/main/downloads/Qwen2.5-7B-Instruct-Q4_K_M)
+
+---
